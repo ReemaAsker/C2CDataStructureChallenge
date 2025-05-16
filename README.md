@@ -1,6 +1,6 @@
 # Code2Career Challenges – Reema's Solutions
 
-Hello GSG, I'm Reema, and I hope my solution meets the expectations and reflects strong understanding and effort. Below are my implementations and answers for the challenges required in the Code2Career program.
+Hello GSG, I'm Reema Asker, and I hope my solution meets the expectations and reflects strong understanding and effort. Below are my implementations and answers for the challenges required in the Code2Career program.
 
 ## 🧠 Topics Covered
 
